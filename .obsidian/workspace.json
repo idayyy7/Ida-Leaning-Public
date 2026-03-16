@@ -11,10 +11,14 @@
             "id": "1067907a3f1f865c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "00_Daily_Note/Success.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新分頁"
+              "title": "Success"
             }
           }
         ]
@@ -178,7 +182,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "96479a794e734bfa",
+  "active": "1067907a3f1f865c",
   "lastOpenFiles": [
     "未命名",
     "未命名.md"
